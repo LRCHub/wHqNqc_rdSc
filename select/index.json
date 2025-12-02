@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "look at the sea",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2025-12-02T12:43:21.274630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "look at the sea",
+      "artist": "OisicleMelonpan",
+      "has_synced": true,
+      "path": "select/01_look_at_the_sea_OisicleMelonpan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "look at the sea",
+      "artist": "Oisicle Melonpan",
+      "has_synced": true,
+      "path": "select/02_look_at_the_sea_Oisicle_Melonpan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Look At The Sea",
+      "artist": "Trap Kids",
+      "has_synced": false,
+      "path": "select/03_Look_At_The_Sea_Trap_Kids.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look At The Sea (Matt Cab & MATZ Remix)",
+      "artist": "Yuma",
+      "has_synced": false,
+      "path": "select/04_Look_At_The_Sea_(Matt_Cab_&_MATZ_Remix)_Yuma.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "look at the sea",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_look_at_the_sea_おいしくるメロンパン.txt"
+    }
+  ]
+}
